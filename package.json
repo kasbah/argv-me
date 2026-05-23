@@ -8,7 +8,7 @@
   ],
   "author": {"name": "Kaspar Emanuel"},
   "contributors": [{"name":"Corey Hart", "email":"corey@codenothing.com"}],
-  "version": "0.0.3pre",
+  "version": "0.0.3",
   "main": "lib/index.js",
   "repository": "https://github.com/kasbah/argv-me",
   "engines": {
